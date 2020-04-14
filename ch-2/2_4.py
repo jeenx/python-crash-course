@@ -12,4 +12,3 @@ print("uppercase:")
 print(f"{anon_name.upper()}")
 
 print("title case:")
-print(f"{anon_name.title()}")
