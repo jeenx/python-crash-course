@@ -3,4 +3,4 @@
 # might be interesting to skim through it.
 
 
-# Intentionally left blank
+print("Intentionally left blank")
